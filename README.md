@@ -12,4 +12,4 @@ Seorang mahasiswa Informatika yang sedang aktif belajar pemrograman dan pengemba
 - **Tools:** Git, GitHub, VS Code, NetBeans
 
 ## 📈 Statistik GitHub
-![Statistik GitHub Anda](https://vercel.app)
+**baru sedikit maklum pemula**
