@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Halo, Saya Zaka!
 
-<!--
-**bijiapel139-zka/bijiapel139-zka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa Informatika yang sedang aktif belajar pemrograman dan pengembangan perangkat lunak.
 
-Here are some ideas to get you started:
+## 🚀 Tentang Saya
+- 🎓 Mahasiswa Teknik Informatika
+- 💻 Sedang fokus mendalami: **Java**, php, framework laravel dan Keamanan Data
+- 🌱 Saat ini sedang mempelajari: Pemrograman Web / Mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Keahlian & Alat (Tech Stack)
+- **Bahasa Pemrograman:** Java, HTML, CSS
+- **Tools:** Git, GitHub, VS Code, NetBeans
+
+## 📈 Statistik GitHub
+![Statistik GitHub Anda](https://vercel.app)
